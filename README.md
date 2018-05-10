@@ -5,3 +5,6 @@ Source code of Bluetooth pairing app: https://github.com/Dhiraj240/QuickLaunch
 
 
 Source code of Single app pairing with Arduino to control brightness of led : https://github.com/Dhiraj240/LED
+
+
+Led_Write.ino is the code for ARDUINO.
